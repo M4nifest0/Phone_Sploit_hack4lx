@@ -1,45 +1,76 @@
 # Phone_Sploit_hack4lx
 Using open Adb ports we can exploit a Andriod Device
-
-Recent News (New Update v.1.2)
+*********************
 
 Port Forwarding
 NetStat 
 Grab wpa_supplicant 
 Turn WiFi On/Off 
-
 Show Mac/Inet
 Remove Password
 Extract apk from app
 Use Keycode 
-
 Get Battery Status
 Get Current Activity
+*********************
 
-PhoneSploit
-Using open Adb ports we can exploit a device 
-you can find open ports here
+Using open Adb ports we can exploit a device you can find open ports here
 
 android+debug+bridge+product%3A”Android+Debug+Bridge”
 
 *********************
+
 HOW TO INSTALL WINDOWS
-git clone https://github.com/Zucccs/PhoneSploit
-extract adb.rar to the phonesploit directory 
-cd PhoneSploit
-pip install colorama
-python2 main.py
-*********************
-HOW TO INSTALL Linux
-git clone https://github.com/Zucccs/PhoneSploit
-cd PhoneSploit
-pip install colorama
-python2 main_linux.py
+
 *********************
 
+1# 
+
+git clone https://github.com/Zucccs/PhoneSploit
+
+2#
+
+extract adb.rar to the phonesploit directory 
+
+cd PhoneSploit
+
+3#
+
+pip install colorama
+
+4#
+
+python main.py
+
+*********************
+
+HOW TO INSTALL Linux
+
+*********************
+
+1#
+
+git clone https://github.com/Zucccs/PhoneSploit
+
+2#
+
+cd PhoneSploit
+
+3#
+
+pip install colorama
+
+4#
+
+python main_linux.py
+
+*********************
 
 Blog:
-https://t.me/hack4lxCombo https://t.me/os20ir
+
+https://t.me/hack4lxCombo 
+
+https://t.me/os20ir
 
 Scraper followers & following instagram ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
 
