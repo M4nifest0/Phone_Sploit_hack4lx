@@ -72,7 +72,7 @@ https://t.me/hack4lxCombo
 
 https://t.me/os20ir
 
-Scraper followers & following instagram ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
+••__Hello Guy's i'am hack4lx Nice To See U again !._.!
 
 ✯ Follow Me ♥
 
