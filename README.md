@@ -2,7 +2,7 @@
 Using open Adb ports we can exploit a Andriod Device
 *********************
 
-Tutorial Viedo Onlion : https://youtu.be/TUudqniG0Sw
+Tutorial Viedo online : https://youtu.be/TUudqniG0Sw
 
 *********************
 Port Forwarding
